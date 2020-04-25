@@ -5,3 +5,4 @@ build:
 	-rm index.html
 	-rm favicon.png
 	cp -r ./src/_site/* .
+	rm -rf ./src/_site
