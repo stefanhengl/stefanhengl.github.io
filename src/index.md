@@ -6,5 +6,4 @@ layout: default
 My name is Stefan Hengl. I'm a freelance software
 engineer based in Berlin, Germany. I design, implement, and run system software
 such as data pipelines and low-latency, high-throughput microservices.
-I am passionate about software engineering, constantly striving for simplicity.
 If you would like to work with me, get in touch!
